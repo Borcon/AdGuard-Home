@@ -6,3 +6,4 @@
 @@||json.bild.de^$important
 @@||script.ioam.de^$important
 @@||tagger.opecloud.com^$important
+@@||c.amazon-adsystem.com^$important
